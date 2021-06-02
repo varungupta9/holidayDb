@@ -1,0 +1,32 @@
+header{
+    
+    background-color: rgb(252, 211, 183);
+    color: ivory;
+    padding: 10px;
+    
+}
+span{
+    color: black;
+    font-size: medium;
+}
+
+#count{
+    font-size: 80px;
+}
+
+#search{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#viewinfo{
+    margin-top: 2px;
+}
+
+#ses2{
+    display: none;
+}
+
+#back{
+    display: none;
+    float: left;
+}
